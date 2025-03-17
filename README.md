@@ -66,9 +66,9 @@ TrackNFind is a location-based mobile application that allows users to drop pins
 ## Troubleshooting
 - If the map does not load, ensure that the API keys are correctly configured.
 - If the backend does not start, check MongoDB connectivity.
-- 
+
 ## Contact
 For any queries, feel free to reach out:
-- Email: praneetha7597@gmail.com
-- GitHub: [Praneetha-NM](https://github.com/Praneetha-NM)
+- Email: divyabb1805@gmail.com
+- GitHub: [Divya Prabha BB](https://github.com/divyaprabha1805)
 
