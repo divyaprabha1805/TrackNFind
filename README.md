@@ -8,12 +8,14 @@ TrackNFind is a location-based mobile application that allows users to drop pins
 - **View Pins**: Display all saved locations on a map.
 - **Delete Pins**: Remove saved locations when they are no longer needed.
 - **Interactive Map**: Utilizes map integration for seamless navigation.
-
-   ![img1](tr1.jpg)  ![img1](tr5.jpg)
   ![img1](tr2.jpg)
-![img1](tr3.jpg)
-![img1](tr4.jpg)
-
+  ![img1](tr3.jpg)
+  ![img1](tr4.jpg)
+  ![img1](tr5.jpg)
+  ![img1](tr6.jpg)
+  ![img1](tr7.jpg)
+  ![img1](tr8.jpg)
+  ![img1](tr9.jpg)
 ## Tech Stack
 - **Frontend**: React Native
 - **Backend**: Node.js, Express.js
